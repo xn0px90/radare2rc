@@ -7,7 +7,7 @@ e asm.pseudo = true
 
 #ESIL EMU 
 e asm.emu=true
-
+e asm.esil = true
 # Display stack and register values on top of disasembly view (visual mode)
 e cmd.stack = true
 
