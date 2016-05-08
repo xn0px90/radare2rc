@@ -2,7 +2,7 @@
 r2 rc 
 
 ------------------------------------------------------
-
+```
 # Show comments at right of disassembly
 e asm.cmtright=true
 
@@ -26,3 +26,4 @@ e asm.describe = true
 
 # Sanbox settings
 e cfg.sandbox=false
+```
