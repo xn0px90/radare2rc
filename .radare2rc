@@ -12,11 +12,10 @@ e asm.esil = true
 e cmd.stack = true
 
 # Solarized theme
-eco solarized
+eco xvilka
 
-# Use UTF-8 to show cool arrows that do not look like crap :)
+# Use UTF-8 to show cool arrows 
 e scr.utf8 = true
-
 e asm.describe = true 
 
 # Sanbox settings
