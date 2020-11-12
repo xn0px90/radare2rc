@@ -1,5 +1,5 @@
 # Show comments at right of disassembly
-e asm.cmtright=true
+e asm.cmt.right=true
 
 # Shows pseudocode in disassembly. Eg mov eax, str.ok = > eax = str.ok
 e asm.pseudo = true
