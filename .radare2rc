@@ -12,7 +12,7 @@ e asm.esil = true
 e cmd.stack = true
 
 # Solarized theme
-eco xvilka
+eco dark
 
 # Use UTF-8 to show cool arrows 
 e scr.utf8 = true
