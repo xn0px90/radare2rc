@@ -16,7 +16,7 @@ e asm.esil = true
 # Display stack and register values on top of disasembly view (visual mode)
 e cmd.stack = true
 
-# Solarized theme
+# Dark theme
 eco dark
 
 # Use UTF-8 to show cool arrows that do not look like crap :)
