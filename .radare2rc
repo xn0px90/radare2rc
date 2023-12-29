@@ -4,15 +4,18 @@ e asm.cmt.right=true
 # Shows pseudocode in disassembly. Eg mov eax, str.ok = > eax = str.ok
 e asm.pseudo = true
 
+# Relocs
+e bin.cache=true
 
 #ESIL EMU 
 e asm.emu=true
 e asm.esil = true
+
 # Display stack and register values on top of disasembly view (visual mode)
 e cmd.stack = true
 
 # Solarized theme
-eco dark
+eco solarized
 
 # Use UTF-8 to show cool arrows 
 e scr.utf8 = true
